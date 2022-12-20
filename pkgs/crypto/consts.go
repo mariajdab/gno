@@ -5,7 +5,7 @@ const (
 	Bech32AddrPrefix = "g"
 
 	// Bech32PubKeyPrefix defines the Bech32 prefix of a pubkey
-	Bech32PubKeyPrefix = "gpub"
+	Bech32PubKeyPrefix = "gpub "
 
 	// Atom in https://github.com/satoshilabs/slips/blob/master/slip-0044.md
 	CoinType uint32 = 118
